@@ -6,9 +6,9 @@ My name is Joshua Uzor and I'm a software developer.
 <br/>
 <br/>
 
-[![GitHub Usblankson](https://img.shields.io/github/followers/Usblankson?label=follow&style=social)](https://github.com/Usblankson)
-[![Linkedin: uyohoiniblanksona827b1117](https://img.shields.io/badge/-uyohoiniblankson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/uyohoini-blankson-a827b1117)](https://www.linkedin.com/in/uyohoini-blankson-a827b1117)
-[![Twitter: BlanksonUS](https://img.shields.io/twitter/follow/BlanksonUS?style=social)](https://twitter.com/BlanksonUS?=08)
+[![GitHub Joshuauzor](https://img.shields.io/github/followers/Joshuauzor?label=follow&style=social)](https://github.com/Joshuauzor)
+[![Linkedin: Joshuauzor](https://img.shields.io/badge/-Joshuauzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/uyohoini-blankson-a827b1117)](https://www.linkedin.com/in/uyohoini-blankson-a827b1117)
+[![Twitter: Joshuauzor](https://img.shields.io/twitter/follow/BlanksonUS?style=social)](https://twitter.com/BlanksonUS?=08)
 
 
 
