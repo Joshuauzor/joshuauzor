@@ -32,14 +32,12 @@ My name is Joshua Uzor and I'm a software developer.
 
 
 ## &#x1f4c8; GitHub Stats
-<!-- <a href="https://github.com/Usblankson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuauzor&theme=dracula&hide_langs_below=1" />
-</a> -->
+
 <br><br>
 <a href="https://github.com/joshuauzor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshuauzor&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joshuauzor's GitHub Stats" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuauzor&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauzor&hide=html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
