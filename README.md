@@ -7,8 +7,8 @@ My name is Joshua Uzor and I'm a software developer.
 <br/>
 
 [![GitHub Joshuauzor](https://img.shields.io/github/followers/Joshuauzor?label=follow&style=social)](https://github.com/Joshuauzor)
-[![Linkedin: Joshuauzor](https://img.shields.io/badge/-Joshuauzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/uyohoini-blankson-a827b1117)](https://www.linkedin.com/in/uyohoini-blankson-a827b1117)
-[![Twitter: Joshuauzor](https://img.shields.io/twitter/follow/BlanksonUS?style=social)](https://twitter.com/BlanksonUS?=08)
+[![Linkedin: Joshuauzor](https://img.shields.io/badge/-Joshuauzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/joshua-uzor-4846981a7/)](https://www.linkedin.com/in/joshua-uzor-4846981a7/)
+[![Twitter: Joshuauzor](https://img.shields.io/twitter/follow/Joshuauzor?style=social)](https://twitter.com/Joshuauzor)
 
 
 
@@ -32,13 +32,13 @@ My name is Joshua Uzor and I'm a software developer.
 
 
 ## &#x1f4c8; GitHub Stats
-<!-- <a href="https://github.com/Usblankson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usblankson&theme=dracula&hide_langs_below=1" />
-</a> -->
+<a href="https://github.com/Usblankson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuauzor&theme=dracula&hide_langs_below=1" />
+</a>
 <br><br>
-<!-- <a href="https://github.com/joshuauzor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Usblankson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joshuauzor's GitHub Stats" />
-</a> -->
+<a href="https://github.com/joshuauzor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshuauzor&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joshuauzor's GitHub Stats" />
+</a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuauzor&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauzor&hide=html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
