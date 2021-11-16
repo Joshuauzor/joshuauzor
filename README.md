@@ -1,7 +1,7 @@
 ### Hello, Geeks!👋
-My name is Uyohoini Blankson and I'm a software developer.
-- 👯 I’m looking to collaborate on Projects...
-- 💬 Looking for a Mentor (Coach)...
+My name is Joshua Uzor and I'm a software developer.
+- 👯 Writes efficient code that can stand the test of time...
+- 💬 Welcome to my repository...
 
 <br/>
 <br/>
@@ -15,12 +15,12 @@ My name is Uyohoini Blankson and I'm a software developer.
 ## 🔧 Technologies & Tools
 
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJs</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> PHP</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter</code> 
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code>
+<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js</code>
 
 
 &nbsp;
@@ -36,7 +36,7 @@ My name is Uyohoini Blankson and I'm a software developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usblankson&theme=dracula&hide_langs_below=1" />
 </a> -->
 <br><br>
-<a href="https://github.com/Usblankson">
+<a href="https://github.com/joshuauzor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Usblankson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Usblankson's GitHub Stats" />
 </a>
 
