@@ -31,6 +31,9 @@ My name is Joshua Uzor and I'm a software developer.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshuauzor&repo=github-readme-stats)](https://github.com/joshuauzor/github-readme-stats)
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br><br>
