@@ -41,7 +41,7 @@ My name is Joshua Uzor and I'm a software developer.
 </a> -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuauzor&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauzor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauzor&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Show some ❤️ by starring some of the repositories! -->
 </div>
