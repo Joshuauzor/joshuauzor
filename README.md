@@ -1,5 +1,5 @@
 ### Hello, Geeks!👋
-My name is Joshua Uzor and I'm a software developer.
+ I'm a software developer and a problem solver.
 - 👨‍💻 Writes efficient code that can stand the test of time...
 - 🌍 Welcome to my world...
 
