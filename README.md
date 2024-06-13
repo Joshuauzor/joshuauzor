@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub Joshuauzor](https://img.shields.io/github/followers/Joshuauzor?label=follow&style=social)](https://github.com/Joshuauzor)
-[![Linkedin: Joshuauzor](https://img.shields.io/badge/-Joshuauzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/joshua-uzor-4846981a7/)](https://www.linkedin.com/in/joshua-uzor-4846981a7/)
+[![Linkedin: Joshuauzor](https://img.shields.io/badge/-Joshuauzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/joshuauzor)](https://www.linkedin.com/in/joshua-uzor-4846981a7/)
 [![Twitter: Joshuauzor](https://img.shields.io/twitter/follow/Joshuauzor?style=social)](https://twitter.com/Joshuauzor)
 
 
